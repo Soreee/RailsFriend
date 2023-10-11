@@ -11,15 +11,8 @@ Gems Utilizzate:
 
 ruby "3.0.2"
 
-gem "rails", "~> 7.0.8"
-gem "sprockets-rails"
-gem "sqlite3", "~> 1.4"
-gem "puma", "~> 5.0"
-gem "importmap-rails"
-gem "turbo-rails"
-gem "stimulus-rails"
-gem "jbuilder"
-gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
-gem "bootsnap", require: false
+All the Defaults one
+
++
 
 gem 'devise', '~> 4.9', '>= 4.9.2'
